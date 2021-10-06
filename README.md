@@ -1,6 +1,10 @@
 # ChromeDinoBot
 Chrome Dino game bot using only image processing.
 
+[![Bot Plays Dino Run! Can our dinosaur bot be stopped?](https://img.youtube.com/vi/HubXt90MLfI/0.jpg)](https://www.youtube.com/watch?v=HubXt90MLfI)
+
+Challenge by ClarityCoders
+
 # Usage
 Run the script with a chrome window and a `chrome://dino` tab open. 
 *The current code is optimized for a 1000 x 750 px chrome window.*
