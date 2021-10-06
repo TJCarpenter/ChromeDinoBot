@@ -1,6 +1,6 @@
 # Tyler Carpenter
 # tylercarpenter1996@gmail.com
-# High Score 272688 (10 OCT 21)
+# High Score 272688 (5 OCT 21)
 
 # Currently set up for a 1000 x 750 Chrome window
 # Any other sizes will need adjustment for the capture
